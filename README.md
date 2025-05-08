@@ -1,1 +1,4 @@
 # Amazon-Customer-Review-Analysis
+This project analyzes over 3 million Amazon reviews in the Clothing, Shoes, and Jewelry category to uncover actionable insights for e-commerce decision-makers. Using PySpark via GCP for scalable data processing, we explored review trends, product popularity, and rating distributions. Key findings include the identification of top-reviewed products, patterns in customer satisfaction, and unusual reviewer behavior. Building on this foundation, we applied advanced NLP techniques—such as topic modeling, sentiment analysis, and review intent classification—to gain a deeper understanding of customer needs and perceptions. These insights support data-driven strategies for product optimization, personalized marketing, and improved customer engagement across the platform.
+
+Contributor: Christina Son, Hyunjin Yu, Kaushiki Tiwary, Shiv Nag, Shubham Kumar
